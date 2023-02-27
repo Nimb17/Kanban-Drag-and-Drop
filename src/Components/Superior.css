@@ -1,0 +1,17 @@
+.containerSuperior{
+    max-width: 1250px;
+    margin: auto;
+    padding-left: 20px;   
+    margin-bottom: 30px; 
+}
+
+.containerSuperior__title{
+    color: #3e3e3e;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.containerSuperior__subtitle{
+    color: #7d7d7d;
+    font-weight: 400;
+}
